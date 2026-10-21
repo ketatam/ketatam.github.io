@@ -12,6 +12,15 @@ I collaborate with [SAP Business AI Research](https://www.sap.com/products/artif
 
 **I'm looking for research internships in 2027** and am open to opportunities across machine learning. Feel free to [get in touch](mailto:a.ketata@tum.de).
 
+## News
+
+- **Oct 2026:** I received a **Top Reviewer Award at NeurIPS 2026**.
+- **Sep 2026:** Our paper [CDMD](https://arxiv.org/abs/2609.39124) was accepted at the **BeNTo Workshop at NeurIPS 2026**.
+- **Sep 2025:** Our paper [GRDM](https://proceedings.neurips.cc/paper_files/paper/2025/hash/ef7f818e234b3d81ad13ea0430353415-Abstract-Conference.html) was accepted at **NeurIPS 2025**.
+- **Jan 2025:** Our paper [SyCo](https://proceedings.iclr.cc/paper_files/paper/2025/hash/2af641762dc02035c31a9314b2d090b6-Abstract-Conference.html) was accepted at **ICLR 2025**.
+- **Oct 2024:** I started my PhD at **TUM**, advised by **Stephan Günnemann** and supported by **relAI**.
+- **Jul 2024:** SyCo received the **Best Paper Runner-up award** at the **GRaM Workshop at ICML 2024**. [Oral presentation](https://icml.cc/virtual/2024/39289)
+
 {% include_relative _includes/publications.md %}
 
 ## Teaching & Supervision
@@ -24,8 +33,4 @@ At TUM, I have taught exercises and co-organize a research seminar:
 
 I also supervise theses and guided research on generative models and machine learning for tabular, relational, and graph data.
 
-## Academic Service
-
-**Reviewer:** NeurIPS (2025, 2026), ICLR (2026, 2027), LoG (2026), and the DeLTa (ICLR 2025) and BeNTo (NeurIPS 2026) workshops.
-
-I received the **NeurIPS 2026 Top Reviewer Award**.
+{% include_relative _includes/services.md %}

@@ -1,47 +1,68 @@
+# Leave image empty to show a placeholder; set it to your figure's path when ready.
 main:
   - title: "CDMD: A Cross-Dataset Mixed-Type Diffusion Model for Tabular Data"
     authors: "<strong>Mohamed Amine Ketata</strong>, Maximilian Schambach, Stephan Günnemann"
     conference: "Preprint, 2026 (under review)."
+    conference_short: "Preprint"
+    image: /assets/img/cdmd.png
+    image_alt: "Schema-conditioned diffusion architecture for numerical and categorical tabular features."
     notes: "Accepted at the BeNTo Workshop at NeurIPS 2026."
     summary: >-
       A shared diffusion model for mixed-type tabular data across heterogeneous
       datasets, with pretraining on 337 datasets to improve generation with
       limited target data.
-    pdf: https://arxiv.org/abs/2609.39124
+    page: https://arxiv.org/abs/2609.39124
+    pdf: https://arxiv.org/pdf/2609.39124
 
   - title: "Joint Relational Database Generation via Graph-Conditional Diffusion Models"
     authors: "<strong>Mohamed Amine Ketata</strong>, David Lüdke, Leo Schwinn, Stephan Günnemann"
-    conference: "<strong>NeurIPS 2025</strong>"
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
+    conference_short: "NeurIPS"
+    image: /assets/img/grdm.png
+    image_alt: "Comparison of autoregressive table generation and joint relational database generation."
     summary: >-
       GRDM generates relational databases non-autoregressively by jointly
       denoising connected rows with a graph neural network.
-    pdf: https://proceedings.neurips.cc/paper_files/paper/2025/hash/ef7f818e234b3d81ad13ea0430353415-Abstract-Conference.html
+    page: https://proceedings.neurips.cc/paper_files/paper/2025/hash/ef7f818e234b3d81ad13ea0430353415-Abstract-Conference.html
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2025/file/ef7f818e234b3d81ad13ea0430353415-Paper-Conference.pdf
     code: https://github.com/ketatam/rdb-diffusion
 
   - title: "Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space"
     authors: "<strong>Mohamed Amine Ketata*</strong>, Nicholas Gao*, Johanna Sommer*, Tom Wollschläger, Stephan Günnemann"
-    conference: "<strong>ICLR 2025</strong>"
+    conference: "International Conference on Learning Representations (ICLR), 2025"
+    conference_short: "ICLR"
+    image: /assets/img/syco.png
+    image_alt: "Molecular graphs encoded into a latent point cloud for forward and reverse diffusion."
     notes: "Oral presentation and Best Paper Runner-up at the GRaM Workshop at ICML 2024."
     summary: >-
       SyCo generates molecular graphs through equivariant diffusion in a
       synthetic 3D latent space.
-    pdf: https://proceedings.iclr.cc/paper_files/paper/2025/hash/2af641762dc02035c31a9314b2d090b6-Abstract-Conference.html
+    page: https://proceedings.iclr.cc/paper_files/paper/2025/hash/2af641762dc02035c31a9314b2d090b6-Abstract-Conference.html
+    pdf: https://proceedings.iclr.cc/paper_files/paper/2025/file/2af641762dc02035c31a9314b2d090b6-Paper-Conference.pdf
     talk: https://icml.cc/virtual/2024/39289
 
   - title: "Uncertainty Estimation for Molecules: Desiderata and Methods"
     authors: "Tom Wollschläger, Nicholas Gao, Bertrand Charpentier, <strong>Mohamed Amine Ketata</strong>, Stephan Günnemann"
-    conference: "<strong>ICML 2023</strong>"
+    conference: "International Conference on Machine Learning (ICML), 2023"
+    conference_short: "ICML"
+    image: /assets/img/uncertainty.png
+    image_alt: "Molecular uncertainty model combining a graph neural network, latent space, and Gaussian process."
     summary: >-
       A study of what uncertainty estimates should capture in molecular
       prediction and how existing methods compare.
-    pdf: https://proceedings.mlr.press/v202/wollschlager23a.html
+    page: https://proceedings.mlr.press/v202/wollschlager23a.html
+    pdf: https://proceedings.mlr.press/v202/wollschlager23a/wollschlager23a.pdf
     code: https://github.com/wollschlager/uncertainty_for_molecules
 
   - title: "DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models"
     authors: "<strong>Mohamed Amine Ketata*</strong>, Cedrik Laue*, Ruslan Mammadov*, Hannes Stärk, Menghua Wu, Gabriele Corso, Céline Marquet, Regina Barzilay, Tommi S. Jaakkola"
-    conference: "Machine Learning for Drug Discovery Workshop at <strong>ICLR 2023</strong>"
+    conference: "Machine Learning for Drug Discovery Workshop at the International Conference on Learning Representations (ICLR), 2023"
+    conference_short: "ICLR Workshop"
+    image: /assets/img/diffdock_pp.png
+    image_alt: "Protein docking through reverse diffusion, followed by confidence-based pose selection."
     summary: >-
       Rigid protein-protein docking through diffusion over relative rotations
       and translations.
-    pdf: https://arxiv.org/abs/2304.03889
+    page: https://arxiv.org/abs/2304.03889
+    pdf: https://arxiv.org/pdf/2304.03889
     code: https://github.com/ketatam/DiffDock-PP
