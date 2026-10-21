@@ -1,22 +1,47 @@
 main:
+  - title: "CDMD: A Cross-Dataset Mixed-Type Diffusion Model for Tabular Data"
+    authors: "<strong>Mohamed Amine Ketata</strong>, Maximilian Schambach, Stephan Günnemann"
+    conference: "Preprint, 2026 (under review)."
+    notes: "Accepted at the BeNTo Workshop at NeurIPS 2026."
+    summary: >-
+      A shared diffusion model for mixed-type tabular data across heterogeneous
+      datasets, with pretraining on 337 datasets to improve generation with
+      limited target data.
+    pdf: https://arxiv.org/abs/2609.39124
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Joint Relational Database Generation via Graph-Conditional Diffusion Models"
+    authors: "<strong>Mohamed Amine Ketata</strong>, David Lüdke, Leo Schwinn, Stephan Günnemann"
+    conference: "<strong>NeurIPS 2025</strong>"
+    summary: >-
+      GRDM generates relational databases non-autoregressively by jointly
+      denoising connected rows with a graph neural network.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2025/hash/ef7f818e234b3d81ad13ea0430353415-Abstract-Conference.html
+    code: https://github.com/ketatam/rdb-diffusion
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Lift Your Molecules: Molecular Graph Generation in Latent Euclidean Space"
+    authors: "<strong>Mohamed Amine Ketata*</strong>, Nicholas Gao*, Johanna Sommer*, Tom Wollschläger, Stephan Günnemann"
+    conference: "<strong>ICLR 2025</strong>"
+    notes: "Oral presentation and Best Paper Runner-up at the GRaM Workshop at ICML 2024."
+    summary: >-
+      SyCo generates molecular graphs through equivariant diffusion in a
+      synthetic 3D latent space.
+    pdf: https://proceedings.iclr.cc/paper_files/paper/2025/hash/2af641762dc02035c31a9314b2d090b6-Abstract-Conference.html
+    talk: https://icml.cc/virtual/2024/39289
+
+  - title: "Uncertainty Estimation for Molecules: Desiderata and Methods"
+    authors: "Tom Wollschläger, Nicholas Gao, Bertrand Charpentier, <strong>Mohamed Amine Ketata</strong>, Stephan Günnemann"
+    conference: "<strong>ICML 2023</strong>"
+    summary: >-
+      A study of what uncertainty estimates should capture in molecular
+      prediction and how existing methods compare.
+    pdf: https://proceedings.mlr.press/v202/wollschlager23a.html
+    code: https://github.com/wollschlager/uncertainty_for_molecules
+
+  - title: "DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models"
+    authors: "<strong>Mohamed Amine Ketata*</strong>, Cedrik Laue*, Ruslan Mammadov*, Hannes Stärk, Menghua Wu, Gabriele Corso, Céline Marquet, Regina Barzilay, Tommi S. Jaakkola"
+    conference: "Machine Learning for Drug Discovery Workshop at <strong>ICLR 2023</strong>"
+    summary: >-
+      Rigid protein-protein docking through diffusion over relative rotations
+      and translations.
+    pdf: https://arxiv.org/abs/2304.03889
+    code: https://github.com/ketatam/DiffDock-PP
