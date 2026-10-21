@@ -8,7 +8,7 @@ I am a PhD student in machine learning at the Technical University of Munich, ad
 
 My research focuses on **generative modeling and foundation models for structured data**, particularly tabular data, relational databases, and graphs. I'm currently working toward diffusion-based tabular foundation models with in-context generation and native support for both generative and predictive tasks.
 
-I collaborate with [SAP Business AI Research](https://www.sap.com/products/artificial-intelligence/research.html) on my PhD research. Previously, I worked at [QuantCo](https://www.quantco.com/), [Helsing](https://helsing.ai/), and [TNG Technology Consulting](https://www.tngtech.com/).
+I collaborate with [SAP Business AI Research](https://www.sap.com/products/artificial-intelligence/research.html) on my PhD research. Prior to my PhD, I interned at [QuantCo](https://www.quantco.com/).
 
 **I am looking for research internships in 2027** and am open to opportunities across machine learning. Feel free to [get in touch](mailto:a.ketata@tum.de).
 
