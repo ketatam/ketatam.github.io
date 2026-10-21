@@ -7,7 +7,7 @@ email: a.ketata@tum.de
 description: >-
   Mohamed Amine Ketata is a PhD student at TUM working on generative
   modeling and foundation models for tabular, relational, and graph data.
-keywords: Mohamed Amine Ketata, machine learning, generative models, diffusion models, tabular data, relational databases
+keywords: Mohamed Amine Ketata, Amine Ketata, Ketata, machine learning, generative models, diffusion models, tabular data, relational databases
 
 url: https://ketatam.github.io
 baseurl: ""
@@ -17,15 +17,15 @@ google_scholar: https://scholar.google.com/citations?user=QT3-wrkAAAAJ
 cv_link: ./assets/files/cv.pdf
 github_link: https://github.com/ketatam
 linkedin: https://www.linkedin.com/in/ketatam/
+twitter: https://twitter.com/
 
-# After uploading your photo, uncomment the next line.
-# avatar: ./assets/img/profile.jpg
+avatar: ./assets/img/profile.jpg
 
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-font: "Sans Serif"
-auto_dark_mode: true
+font: "Serif"
+auto_dark_mode: false
 enable_footnote: true
 
 remote_theme: yaoyao-liu/minimal-light
