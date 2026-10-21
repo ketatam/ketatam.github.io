@@ -25,7 +25,7 @@ I collaborate with [SAP Business AI Research](https://www.sap.com/products/artif
 
 ## Teaching & Supervision
 
-At TUM, I have taught exercises and co-organize a research seminar:
+At TUM, I have led exercise sessions and co-organize a research seminar:
 
 - **[Advanced Machine Learning: Deep Generative Models](https://www.cs.cit.tum.de/en/daml/lehre/sommersemester-2026/advanced-machine-learning-deep-generative-models/)** — Exercise instructor, Summer 2025 and 2026.
 - **[Machine Learning](https://www.cs.cit.tum.de/en/daml/lehre/wintersemester-2025-26/machine-learning/)** — Exercise instructor, Winter 2025/26.

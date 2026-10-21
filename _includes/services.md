@@ -1,6 +1,6 @@
 ## Academic Service
 
-<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+<h3 style="margin:0 10px 0;">Conference Reviewer</h3>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/"><autocolor>Conference on Neural Information Processing Systems (NeurIPS), 2025–2026</autocolor></a></li>
@@ -8,7 +8,7 @@
   <li><a href="https://logconference.org/"><autocolor>Learning on Graphs Conference (LoG), 2026</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Workshop Reviewer</h4>
+<h3 style="margin:0 10px 0;">Workshop Reviewer</h3>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://bento-neurips.github.io/"><autocolor>BeNTo: Beyond Next-Token Prediction — NeurIPS 2026</autocolor></a></li>
